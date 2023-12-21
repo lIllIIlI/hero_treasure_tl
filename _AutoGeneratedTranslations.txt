@@ -11,10 +11,19 @@ r:"潜在力:(\d)$"=Potential $1
 r:"人工+(\d+)\\n建造消費魂鋼(\d+)/個"=Labor +$1\nCosts $2/pc of Soulsteel to build
 r:"魂鋼を獲得:(\d+)$"=Get Soulsteel: $1
 r:"(\d+)位$"=Rank $1
+r:"(.+)天$"=$1 Days
 sr:"<color%3D#ffcc00ff>(.+)戦闘開始</color>$"=<color%3D#ffcc00ff>$1 Battle starts</color>
 sr:"<color%3D#ffcc00ff>(.+)き寄せ終了</color>$"=<color%3D#ffcc00ff>$1 Finished luring</color>
-sr:"(.+)入済み$"=$1 Joined
 sr:"<color%3D#ffcc00ff>(.+)負けです！</color>$"=<color%3D#ffcc00ff>$1's party lost!</color>
+
+
+
+
+
+
+
+
+
 
 
 CGタイプを選んでください=Please choose the CG type
@@ -351,3 +360,29 @@ Lｖ順=Lv Order
 ダメだ、もう立ち上がれない…。=No, I can't get up anymore...
 強化の白石のネックレス=White stone necklace of enhancement
 
+はぁ…変な気持ち、なんだか気持ちいい…。=Huh...weird feeling, kind of nice....
+自分の体の反応に戸惑いつつも、魔物の舌はサッカの体を舐め回す。=Puzzled by her own body's reaction, the demon's tongue licks all over Sakka's body.
+まさか、私がこんな魔物に犯されるなんて…。=I never thought I would be raped by such a demon....
+まあき=Maaki
+ゆきみち=Yukimichi
+強化のロングソード=Long Sword of Reinforcement
+選択すると自動で誘因を継続=Automatic continuation of inducements when selected
+選択すると自動で兵士を戦場に補充=Automatic replenishment of soldiers on the battlefield upon selection
+オン=On
+大将、<color%3D#ff0000ff>強壮薬</color>の話を耳にしたことはないか？=General,<color%3D#ff0000ff> Tonic </color>,have you ever heard of it?
+なんだ、それでもっと強くなりたいってのか？=What, so you want to be stronger?
+その通り、この鍛え上げた体にその薬を使えば、魔物も楽々粉砕できるだろうしな！=That's right, and if I use that medicine on this well-trained body, I'll be able to crush demons with ease!
+ハハハ、いいだろう。=Hahaha, okay.
+強化の瑠璃のリング=Ring of enhanced lapis lazuli
+ちづる=Chizuru
+よりとも=Yoritomo
+私は魔物の子を孕んじゃったの…ううう…ランディ…。=I was pregnant with a demon...ugh...Randy....
+強化の木のロッド=Reinforced Wooden Rods
+強壮薬=Tonic
+ロビグス=Robigus
+レジェントイナズマワンド=Legend Inazuma Wand
+こんなことをすると、いつか痛い目に遭うぞ！=You will be hurt someday if you do this!
+こうき=Kouki
+強化のボロのロープ=Rope of reinforcing rags
+チョーチョー狂戦士加=Cho Cho Warrior Ka.
+あさか=Asaka
