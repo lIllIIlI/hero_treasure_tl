@@ -23,7 +23,7 @@ sr:"強化の(.+)$"=Enhanced $1
 sr:"魔法の(.+)$"=Magical $1
 sr:"レジェント(.+)$"=Legendary $1
 sr:"エピック(.+)$"=Epic $1
-sr:"^<color%3D#ff0033ff>(.+)を入手！</color>=<color%3D#ff0033ff>$1 GET！</color>
+sr:"^<color%3D#ff0033ff>(.+)を入手！</color>$"=<color%3D#ff0033ff>$1 GET！</color>
 
 
 
